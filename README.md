@@ -4,6 +4,8 @@
 
 <table>
   <tr>
-    <th>Month</th>
+    <td>Month</td>
+    <td>Year</td>
+    <td>Day</td>
   </tr>
 </table>
