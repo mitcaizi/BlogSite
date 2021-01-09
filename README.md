@@ -2,10 +2,10 @@
 
 ![blog](https://user-images.githubusercontent.com/35712522/104104107-48b51900-5263-11eb-9c19-d7684e836f90.gif)
 
-<table>
-  <tr>
-    <td>Month</td>
-    <td>Year</td>
-    <td>Day</td>
-  </tr>
-</table>
+<dir>
+  <li>year</li>
+  <li>day</li>
+  <li>month</li>
+</dir>
+  
+
